@@ -1,7 +1,7 @@
 # Learnings on software project estimation
-## [Usecase point estimation](https://github.com/signalarun/estimation-learnings/tree/master/usecase-point-estimation)
+### [Usecase point estimation](https://github.com/signalarun/estimation-learnings/tree/master/usecase-point-estimation)
 
-## Web projects
+### Web projects
  1. Choosing the size
     1.1 Use any software size measure, this can the standard used in your organization or that which is comfortable to you.
  2. Analyze each tier and estimate the size of the software to be developed at each tier.
