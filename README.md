@@ -16,7 +16,7 @@
  1. Productivity  
      Its the rate of achievement and can be expressed as person-hours per unit of software size or as software size per person-day
  2. Person-hours per unit of software size  
-     eg. Effort =  100<size> * 10<person-hours or productivity>
+     eg. Effort = 100<size> * 10<person-hours or productivity>
                 = 1000 person-hours    
  3. Units of software size per person-day  
       eg. Effort = 100<size> / 0.5<size per person-day or productivity>  
