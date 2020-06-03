@@ -30,6 +30,7 @@ but was designed for the specific needs of object oriented systems and system re
                 = 1000 person-hours    
  3. Units of software size per person-day  
       eg. Effort = 100<size> / 0.5<size per person-day or productivity>  
+                 = 200 person-days
  4. Contingency allowance 10%
     
 
