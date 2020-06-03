@@ -7,7 +7,6 @@ The UCP technique was developed by Gustav Karner in 1993 while employed at what 
 which later merged into Rational Software and then IBM. The UCP method was created to solve for estimating the software
 size of systems that were object oriented. It is based on similar principles as the Function Point (FP) estimation method,
 but was designed for the specific needs of object oriented systems and system requirements based on use cases.
-
    * ### [Execl sheet to estimate](https://github.com/signalarun/estimation-learnings/blob/master/usecase-point-estimation/UCP%20Estimation.xlsx)
 ## Task based estimation 
    * Task based or activity based estimation estimates software development effort without estimating the software size. Its
