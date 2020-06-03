@@ -24,7 +24,7 @@ but was designed for the specific needs of object oriented systems and system re
 ## Effort from software size
  1. Productivity  
      Its the rate of achievement and can be expressed as person-hours per unit of software size or as software size per 
-     person-day. Different productivity can be applied to different tiers based upon the team.
+     person-day. Different productivity can be applied to various tiers based upon the team.
  2. Person-hours per unit of software size  
      eg. Effort = 100<size> * 10<person-hours or productivity>
                 = 1000 person-hours    
