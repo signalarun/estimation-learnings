@@ -1,4 +1,3 @@
-# Learnings on software project estimation
 ## [Usecase point estimation](https://github.com/signalarun/estimation-learnings/tree/master/usecase-point-estimation)
    * [UCP](https://en.wikipedia.org/wiki/Use_Case_Points) is used when the Unified Modeling Language (UML) and Rational Unified Process (RUP) methodologies are being 
 used for the software design and development. The concept of UCP is based on the requirements for the system being
