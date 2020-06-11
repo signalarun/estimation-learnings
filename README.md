@@ -11,6 +11,7 @@ but was designed for the specific needs of object oriented systems and system re
 ## Task based estimation 
    * Task based or activity based estimation estimates software development effort without estimating the software size. Its
      used for estimating engineering projects in manufacturing industries. 
+     Expected effort = [(optimistic effort + pessimistic effort) + 4 * (mostlikely effort)] / 6
 
 ## Web projects
  1. Choosing the size  
