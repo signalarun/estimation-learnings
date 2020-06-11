@@ -18,7 +18,7 @@ but was designed for the specific needs of object oriented systems and system re
 
 ## Web projects
  1. Choosing the size  
-     1.1 Use any software size measure, this can the standard used in your organization or that which is comfortable to you.
+     1.1 Use any software size measure, this can be the standard used in your organization or that which is comfortable to you.
  2. Analyze each tier and estimate the size of the software to be developed at each tier.
  3. Determining the effort  
      3.1 Convert the estimated size into effort using any methods
